@@ -8,3 +8,8 @@ Array-practice in javaScript
 - example from (learn with sumit)
 - using return
 - another simple array example
+4. Map Method
+- example form (Bro Code)
+- use function in that example
+- we example BDT to USD
+- 
