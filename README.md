@@ -4,3 +4,7 @@ Array-practice in javaScript
 - in that example we add 2 in every array value
 2. array map index example practice
 - index will পর্যায়ক্রমিকভাবে নাম্বারিং করবে
+3. 3 practice array
+- example from (learn with sumit)
+- using return
+- another simple array example
