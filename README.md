@@ -12,4 +12,3 @@ Array-practice in javaScript
 - example form (Bro Code)
 - use function in that example
 - we example BDT to USD
-- 
