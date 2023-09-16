@@ -5,9 +5,7 @@ const numbers = [1, 25, -9, 8];
 // a = 26, c = -9 => a = 17
 // a = 17, c = 8 => a = 25
 
-const sum = numbers.reduce(
-    (accumulator, currentValue) =>  accumulator + currentValue
- );
+const sum = numbers.reduce((accumulator, currentValue) =>  accumulator + currentValue);
 
 document.write(sum);
 
