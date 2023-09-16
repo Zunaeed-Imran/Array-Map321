@@ -33,3 +33,5 @@ Array-practice in javaScript
 - they both wor the same
 8. Array Reduce 4th part
 - One more other way of array reducing.
+9. Array filter
+- a simple example of array filter
