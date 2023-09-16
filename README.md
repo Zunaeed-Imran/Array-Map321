@@ -12,7 +12,8 @@ Array-practice in javaScript
 - example form (Bro Code)
 - use function in that example
 - we example BDT to USD
-5. Array reduce javascript
+5. Array reduce in javascript 1st part
 - array for loop use
 - using for loop of and sum of array number
 - [Mosh Tutorial for this Example](https://youtu.be/g1C40tDP0Bk?si=C4reqQCkT_Xun2Ac)
+6. Array Reduce in javascript 2nd part
