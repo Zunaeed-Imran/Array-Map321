@@ -28,3 +28,6 @@ Array-practice in javaScript
 ```
 - প্রতিবার এক accumulator কারেন্ট নাম্বার এর সাথে যোগ হয়
 - যোগফলের পরে accumulator Each time the number is equal to [previous accumulator]
+7. Array reduce 3rd part
+- এই পদ্ধতি আগে এর নিয়মের মতো কিন্তু জিরো সরিয়ে দিয়েছে
+- they both wor the same
