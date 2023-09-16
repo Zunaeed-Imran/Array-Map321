@@ -31,3 +31,5 @@ Array-practice in javaScript
 7. Array reduce 3rd part
 - এই পদ্ধতি আগে এর নিয়মের মতো কিন্তু জিরো সরিয়ে দিয়েছে
 - they both wor the same
+8. Array Reduce 4th part
+- One more other way of array reducing.
