@@ -15,3 +15,4 @@ Array-practice in javaScript
 5. Array reduce javascript
 - array for loop use
 - using for loop of and sum of array number
+- [Mosh Tutorial for this Example](https://youtu.be/g1C40tDP0Bk?si=C4reqQCkT_Xun2Ac)
