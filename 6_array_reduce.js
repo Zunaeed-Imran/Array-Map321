@@ -10,3 +10,6 @@ const sum = numbers.reduce((accumulator, currentValue) => {
 }, 0);
 
 document.write(sum);
+
+// এই পদ্ধতিতে অ্যারের প্রতিটা নাম্বার ভেঙ্গে ভেঙ্গে যোগ করা হয়
+// example The sum of digits of 719 = 7 + 1 + 9 = 17
