@@ -17,7 +17,12 @@ Array-practice in javaScript
 - using for loop of and sum of array number
 - [Mosh Tutorial for this Example](https://youtu.be/g1C40tDP0Bk?si=C4reqQCkT_Xun2Ac)
 6. Array Reduce in javascript 2nd part
-- ```// a = 0, c = 1=> a = 1
+- array reduce method for অ্যারের প্রতিটা নাম্বার ভেঙ্গে ভেঙ্গে যোগ 
+
+```
+// a = 0, c = 1=> a = 1
 // a = 1, c = 25 => a = 26
 // a = 26, c = -9 => a = 17
-// a = 17, c = 8 => a = 25```
+// a = 17, c = 8 => a = 25
+
+```
