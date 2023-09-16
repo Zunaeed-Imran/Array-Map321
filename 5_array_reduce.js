@@ -8,3 +8,7 @@ for (let n of numbers){
     sum = sum + n;
 }
 document.write(sum);
+
+numbers.reduce((accumulator, currentvalue) =>{
+    
+});
