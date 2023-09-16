@@ -13,3 +13,5 @@ Array-practice in javaScript
 - use function in that example
 - we example BDT to USD
 5. Array reduce javascript
+- array for loop use
+- using for loop of and sum of array number
