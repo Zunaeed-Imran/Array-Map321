@@ -20,9 +20,11 @@ Array-practice in javaScript
 - array reduce method for অ্যারের প্রতিটা নাম্বার ভেঙ্গে ভেঙ্গে যোগ 
 
 ```
-// a = 0, c = 1=> a = 1
-// a = 1, c = 25 => a = 26
-// a = 26, c = -9 => a = 17
-// a = 17, c = 8 => a = 25
+// accumulator = 0, currentValue = 1=> accumulator = 1
+// accumulator = 1, currentValue = 25 => accumulator = 26
+// accumulator = 26, currentValue = -9 => accumulator = 17
+// accumulator = 17, currentValue = 8 => accumulator = 25
 
 ```
+- প্রতিবার এক accumulator কারেন্ট নাম্বার এর সাথে যোগ হয়
+- যোগফলের পরে accumulator Each time the number is equal to [previous accumulator]
