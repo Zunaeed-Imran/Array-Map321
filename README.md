@@ -61,3 +61,7 @@ Array-practice in javaScript
 10. array filter even number.
 
 - example with even number.
+
+11. Array filter Odd number.
+
+- Example with array filter with filtering Odd number.
