@@ -71,3 +71,5 @@ Array-practice in javaScript
 - make a function that will work like array reduce.
 - it is just a function what make a array sum of it like reduce do,
 - but it't not a array reduce.
+
+
