@@ -24,4 +24,8 @@ Array-practice in javaScript
 
 6. practice sum of array function
 
-- 
+- using function sum of array like array reduce
+
+7. random practice
+
+- just a random practice
