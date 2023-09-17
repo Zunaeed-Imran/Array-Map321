@@ -29,3 +29,7 @@ Array-practice in javaScript
 7. random practice
 
 - just a random practice
+
+8. array reduce practice
+
+- array reduce practice to make it more clear
