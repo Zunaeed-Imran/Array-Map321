@@ -1,6 +1,9 @@
 # Array-Map321
 
-Array-practice in javaScript
+---
+
+**_Array-practice in javaScript_**
+
 ---
 
 1. basic array map ptactice
