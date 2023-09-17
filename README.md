@@ -69,5 +69,5 @@ Array-practice in javaScript
 12. Array sum of array number using function(work like array reduce).
 
 - make a function that will work like array reduce.
-- it is just a function what make a array sum of it like reduce do
-- but it't not a array reduce
+- it is just a function what make a array sum of it like reduce do,
+- but it't not a array reduce.
