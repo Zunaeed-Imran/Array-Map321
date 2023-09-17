@@ -65,3 +65,7 @@ Array-practice in javaScript
 11. Array filter Odd number.
 
 - Example with array filter with filtering Odd number.
+
+12. Array sum of array number using function(work like array reduce).
+
+- make a function that will work like array reduce.
