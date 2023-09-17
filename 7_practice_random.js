@@ -1,4 +1,6 @@
 //  just a random practices
+// 'function mytest3(a)' that example 'a' is a function parameter
+// sometimes i forgot that function parameter name.  
 
 const arr = [1, 5, 9, 63, 785, 4, 5];
 
