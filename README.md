@@ -75,3 +75,9 @@
 - make a function that will work like array reduce.
 - it is just a function what make a array sum of it like reduce do,
 - but it't not a array reduce.
+
+13. Map filter reduce/ another way write
+
+- we use array map in this example
+- good example with that tutorial
+- [Map filter and reduce in 25:57](https://youtu.be/zdp0zrpKzIE?si=bmrJ_3fbo3K5JqJ_)
