@@ -90,3 +90,4 @@
 15. Array filter / use Other way
 
 - other way not basic way in this example
+- in this example we use array filter and array map
