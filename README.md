@@ -86,3 +86,7 @@
 
 - Array reduce use other way of using it to better understand
 - we use condation in this example
+
+15. Array filter / use Other way
+
+- other way not basic way in this example
