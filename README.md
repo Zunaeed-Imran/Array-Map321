@@ -81,3 +81,7 @@
 - we use array map in this example
 - good example with that tutorial
 - [Map filter and reduce in 25:57](https://youtu.be/zdp0zrpKzIE?si=bmrJ_3fbo3K5JqJ_)
+
+14. Array reduce / other way in this example
+
+- Array reduce use other way of using it to better understand
