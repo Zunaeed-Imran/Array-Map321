@@ -5,4 +5,4 @@ const users = [
   { firstName: 'Amir', lastName: 'khan', age: 50 },
 ];
 
-
+const resulu = users.reduce();
