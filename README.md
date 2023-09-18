@@ -85,3 +85,4 @@
 14. Array reduce / other way in this example
 
 - Array reduce use other way of using it to better understand
+- we use condation in this example
