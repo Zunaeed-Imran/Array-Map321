@@ -91,3 +91,7 @@
 
 - other way not basic way in this example
 - in this example we use array filter and array map
+
+16. Array Split
+- with split method we can select specific array on display.
+- like we use in that example "16 array split"
