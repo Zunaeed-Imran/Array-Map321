@@ -1,3 +1,6 @@
+// show array map associative way.
+
+
 const users = [
   { firstName: 'akshay', lastName: 'kumar', age: 23 },
   { firstName: 'Sharook', lastName: 'Khan', age: 60 },

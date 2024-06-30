@@ -14,4 +14,4 @@ const resulu = users.reduce(function (acc, curr) {
   return acc;
 }, {});
 
-document.write(resulu);
+console.log(resulu);
